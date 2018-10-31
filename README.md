@@ -6,7 +6,7 @@ An easy to read implementation of different algorithms in Google's language Go.
 #### What Is Bubble Sort?
 Placeholder.
 
-### Selection Sort
+### Counting Sort
 #### What Is A Selection Sort?
 Placeholder.
 
@@ -14,14 +14,14 @@ Placeholder.
 #### What Is Insertion Sort?
 Placeholder.
 
-### Quick Sort
-#### What Is Quick Sort?
-Placeholder.
-
 ### Merge Sort
 #### What Is Merge Sort?
 Placeholder.
 
-### Heap Sort
-#### What Is Heap Sort?
+### Quick Sort
+#### What Is Quick Sort?
+Placeholder.
+
+### Selection Sort
+#### What Is A Selection Sort?
 Placeholder.
